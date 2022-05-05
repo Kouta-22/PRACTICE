@@ -1,4 +1,4 @@
-b = input("digite algo: ")
+b = input("digite uma palavra: ")
 print('o tipo digitado é: ',type(b))
 print('-=-'*12)
 print('só tem espaço: ',b.isspace())
