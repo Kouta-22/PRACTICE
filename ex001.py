@@ -1,3 +1,4 @@
+
 b = input("digite uma palavra: ")
 print('o tipo digitado é: ',type(b))
 print('-=-'*12)
@@ -14,3 +15,4 @@ print('-=-'*12)
 print('esta em minuscula? ', b.islower())
 print('-=-'*12)
 print('esta capitadalizo? ', b.istitle())
+
